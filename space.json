@@ -25,6 +25,16 @@
       "coingecko":"https://www.coingecko.com/en/coins/friend3"
     },
     {
+      "spaceName": "NOMOEX",
+      "spaceKey": "nomoex",
+      "logoUrl": "https://www.trustfi.org/launchpad/avatar/nomoex-avatar.png",
+      "desc": "Nomoex ($NOMOX) – NOMOEX Global aims to lead the future of finance; Its vision is a future devoid of exorbitant service fees, fortified security measures, and unparalleled performance with scalable products.",
+      "ownerAddress": "0x6CDbcbfd2283F1762F7c61c55784A0aD1e7b2D32",
+      "twitter": "https://x.com/nomoex_global",
+      "website":"https://www.nomoex.com/en_US/",
+      "telegram":"https://t.me/nomoexcommunity",
+    },
+    {
       "spaceName": "CheersLand",
       "spaceKey": "cheersland",
       "logoUrl": "https://i.ibb.co/jknjwZm/i-AIvqt-UU-400x400.png",
