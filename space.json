@@ -13,6 +13,18 @@
       "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
     },
     {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    },
+    {
       "spaceName": "Friend3",
       "spaceKey": "friend3",
       "logoUrl": "https://i.postimg.cc/nzCxXLYy/Ok-WORgf-K-400x400.jpg",
@@ -308,7 +320,18 @@
       "telegram":"https://t.me/trustfi_fans",
       "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
       "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
-    },  {
+    },{
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    },{
       "spaceName": "Friend3",
       "spaceKey": "friend3",
       "logoUrl": "https://i.postimg.cc/nzCxXLYy/Ok-WORgf-K-400x400.jpg",
@@ -614,6 +637,18 @@
       "coinmarketcap":"https://coinmarketcap.com/currencies/friend3/",
       "coingecko":"https://www.coingecko.com/en/coins/friend3"
     },
+     {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    },
     {
       "spaceName": "NOMOEX Global",
       "spaceKey": "nomoex",
@@ -906,6 +941,18 @@
       "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
     },
      {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    },
+     {
       "spaceName": "Friend3",
       "spaceKey": "friend3",
       "logoUrl": "https://i.postimg.cc/nzCxXLYy/Ok-WORgf-K-400x400.jpg",
@@ -1190,6 +1237,17 @@
     {
       "spaceName": "TrustFi",
       "spaceKey": "trustfi",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    }, {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
       "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
       "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
@@ -1495,6 +1553,17 @@
       "telegram":"https://t.me/trustfi_fans",
       "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
       "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    }, {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
     },
      {
       "spaceName": "Friend3",
@@ -1787,6 +1856,17 @@
       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
       "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
       "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    }, {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
       "twitter": "https://twitter.com/trustfiorg",
       "website":"https://trustfi.org/",
       "telegram":"https://t.me/trustfi_fans",
@@ -2090,6 +2170,17 @@
       "telegram":"https://t.me/trustfi_fans",
       "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
       "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    }, {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
     },
      {
       "spaceName": "Friend3",
@@ -2387,6 +2478,17 @@
       "telegram":"https://t.me/trustfi_fans",
       "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
       "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    }, {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
     },
      {
       "spaceName": "Friend3",
@@ -2675,6 +2777,17 @@
       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
       "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
       "ownerAddress": "0x2A09669d8e53374b4EDCD9bC99E14C33429a97f5",
+      "twitter": "https://twitter.com/trustfiorg",
+      "website":"https://trustfi.org/",
+      "telegram":"https://t.me/trustfi_fans",
+      "coinmarketcap":"https://coinmarketcap.com/currencies/trustfi-network/",
+      "coingecko":"https://www.coingecko.com/en/coins/trustfi-network-token"
+    }, {
+      "spaceName": "M Staking Pool",
+      "spaceKey": "M",
+      "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/trustfi+logo.png",
+      "desc": "TrustFi is committed to provide decentralized BaaS (Blockchain-as-a-Service) solutions for DeFi market based on multichain environments. A complete set of product portfolios developed by TrustFi, including Decentralized Community Driven Incubator (TrustFi Booster), IDO General Protocol with an insured mechanism (TrustFi LaunchPad) and Automated Farm Pools (AFP) Contract (TrustFi Farmer), which is an important supplement to the DeFi infrastructure built on Web 3.0.",
+      "ownerAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
       "twitter": "https://twitter.com/trustfiorg",
       "website":"https://trustfi.org/",
       "telegram":"https://t.me/trustfi_fans",
